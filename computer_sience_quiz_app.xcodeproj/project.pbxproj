@@ -39,6 +39,7 @@
 		4A98FA362B42890A009779AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A98FA392B42890A009779AD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4AA553752BBE5EC20001DC51 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4AA553762BBE6B750001DC51 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		4ACD69772B9FDEEC0082DBAC /* GameViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewModel.swift; sourceTree = "<group>"; };
 		4ACD69792B9FE21B0082DBAC /* QuestionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionView.swift; sourceTree = "<group>"; };
 		4AECE67A2B7DC7380034390B /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
@@ -58,6 +59,7 @@
 		4A98FA262B428909009779AD = {
 			isa = PBXGroup;
 			children = (
+				4AA553762BBE6B750001DC51 /* .gitignore */,
 				4AA553752BBE5EC20001DC51 /* README.md */,
 				4A98FA312B428909009779AD /* computer_sience_quiz_app */,
 				4A98FA302B428909009779AD /* Products */,
