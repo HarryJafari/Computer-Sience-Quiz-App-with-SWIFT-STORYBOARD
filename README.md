@@ -13,9 +13,9 @@ Welcome to the Computer Science Quiz App for iOS, designed specifically for new 
 
 ## Screenshots
 
-![Screenshot 1](/computer_sience_quiz_app/Assets/simulator_screenshot_443A0858-F5AD-4036-A1DE-EC45576039B1.png)
-![Screenshot 2](/computer_sience_quiz_app/Assets/simulator_screenshot_043FAB83-BE63-4CBD-8CCE-B65B98A06BCC.png)
-![Screenshot 3](/computer_sience_quiz_app/Assets/simulator_screenshot_56401B91-9928-470B-85D9-EF896D9D0F7C.png)
+![Screenshot 1](https://victoriadigitalagency.com/wp-content/uploads/2024/04/1.png)
+![Screenshot 2](https://victoriadigitalagency.com/wp-content/uploads/2024/04/2.png)
+![Screenshot 3](https://victoriadigitalagency.com/wp-content/uploads/2024/04/3.png)
 <!-- Add more screenshots if needed -->
 
 ## How to Use
